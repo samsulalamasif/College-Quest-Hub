@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Boston College",
+        "image": "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=886&q=80",
+        "admission_dates": "October 1 - December 15",
+        "events": [
+            "Orientation Day",
+            "Alumni Homecoming",
+            "Career Fair"
+        ],
+        "research_history": "Founded in 1950, has a rich history of groundbreaking research in various fields.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Swimming",
+            "Tennis"
+        ],
+        "college_rating": 4.7
+    },
+    {
+        "name": "Emirate College",
+        "image": "https://images.unsplash.com/photo-1592066575517-58df903152f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=998&q=80",
+        "admission_dates": "January 15 - March 31",
+        "events": [
+            "Freshers' Party",
+            "Annual Cultural Fest",
+            "Tech Symposium"
+        ],
+        "research_history": "Known for its contributions to environmental research and sustainability.",
+        "sports": [
+            "Cricket",
+            "Badminton",
+            "Table Tennis",
+            "Volleyball"
+        ],
+        "college_rating": 4.5
+    },
+    {
+        "name": "Riverdale College",
+        "image": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+        "admission_dates": "April 1 - June 30",
+        "events": [
+            "Science Exhibition",
+            "Literary Week",
+            "Entrepreneurship Summit"
+        ],
+        "research_history": "A pioneer in cutting-edge technology research, holds several patents.",
+        "sports": [
+            "Soccer",
+            "Rugby",
+            "Athletics",
+            "Chess"
+        ],
+        "college_rating": 4.9
+    },
+    {
+        "name": "Winters College",
+        "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/modern-college-campus-buildings-alexandr-grichenko.jpg",
+        "admission_dates": "August 15 - October 15",
+        "events": [
+            "Music Festival",
+            "Sports Carnival",
+            "Career Development Workshops"
+        ],
+        "research_history": "Known for its advancements in medical research and healthcare innovation.",
+        "sports": [
+            "Hockey",
+            "Gymnastics",
+            "Baseball",
+            "Archery"
+        ],
+        "college_rating": 4.6
+    },
+    {
+        "name": "Monarch College",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-546434759-1502380542.jpg",
+        "admission_dates": "November 1 - January 31",
+        "events": [
+            "International Food Fest",
+            "Art Exhibition",
+            "Leadership Summit"
+        ],
+        "research_history": "Focuses on social sciences research and community engagement projects.",
+        "sports": [
+            "Basketball",
+            "Swimming",
+            "Tennis",
+            "Cricket"
+        ],
+        "college_rating": 4.3
+    },
+    {
+        "name": "Landslide College",
+        "image": "https://asset---north-carolina.bldg15.net/img/c/0/c04305f3-bfbb-4c74-90f0-9d129c6bde2c/Davidson%20College%20Chambers%20Building%20in%20Daytime-crop(1,0.850,0,0.150,r4).58eaf9e7.jpg",
+        "admission_dates": "February 1 - April 30",
+        "events": [
+            "College Fest",
+            "Coding Hackathon",
+            "Industry Connect Seminars"
+        ],
+        "research_history": "Renowned for its breakthroughs in artificial intelligence and robotics research.",
+        "sports": [
+            "Football",
+            "Badminton",
+            "Table Tennis",
+            "Volleyball"
+        ],
+        "college_rating": 4.8
+    }
+]

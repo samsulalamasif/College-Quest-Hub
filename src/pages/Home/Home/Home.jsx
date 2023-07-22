@@ -1,9 +1,10 @@
 import React from 'react';
+import SearchField from '../SearchField/SearchField';
 
 const Home = () => {
     return (
         <div>
-            <h1>This is Home</h1>
+            <SearchField></SearchField>
         </div>
     );
 };
