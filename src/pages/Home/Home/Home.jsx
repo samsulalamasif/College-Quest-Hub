@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import CollegeCard from '../CollegeCard/CollegeCard';
+import Reviews from '../../Reviews/Reviews';
+import Gallery from '../Gallery/Gallery';
 
 
 const Home = () => {
@@ -31,6 +33,10 @@ const Home = () => {
                         card={card}></CollegeCard>)
                 }
             </div>
+
+            <Gallery></Gallery>
+            <Reviews></Reviews>
+
         </div>
     );
 };

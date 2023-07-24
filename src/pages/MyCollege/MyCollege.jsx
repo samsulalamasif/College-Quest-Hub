@@ -18,6 +18,9 @@ const MyCollege = () => {
 
 
 
+
+
+
     return (
         <div className="overflow-x-auto w-full">
             <table className="table w-full">
