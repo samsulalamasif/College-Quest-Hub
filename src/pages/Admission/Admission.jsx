@@ -29,7 +29,7 @@ const Admission = () => {
         const admissionData = { college, subject, name, email, phone, date, address, photo }
         console.log(admissionData);
 
-        fetch("http://localhost:5000/admission", {
+        fetch("https://college-quest-hub-server-side.vercel.app/admission", {
             method: "POST",
             headers: {
                 "content-type": "application/json"

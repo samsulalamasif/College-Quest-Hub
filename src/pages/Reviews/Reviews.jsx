@@ -6,16 +6,13 @@ const Reviews = () => {
 
     useEffect(() => {
 
-        fetch("http://localhost:5000/review")
+        fetch("https://college-quest-hub-server-side.vercel.app/review")
             .then(res => res.json())
             .then(data => setReviews(data))
     }, [])
-
-    console.log(reviews);
-
     return (
-        <div className='mb-20'>
-            <h1 className='text-5xl font-mono font-semibold text-center'>Our Valuable Students</h1>
+        <div className='mb-20' data-aos="fade-up-right" data-aos-duration="2000">
+            <h1 className='text-5xl font-mono font-semibold text-center'>Our Students Review</h1>
             <p className='text-slate-600 font-bold py-8 text-center mb-10'>
                 Our college valuable students consectetur adipisicing elit. Reiciendis veniam, eligendi <br />
                 quisquam omnis illo sit soluta cupiditate distinctio facere. Architecto deleniti sdrt sdf

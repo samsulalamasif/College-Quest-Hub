@@ -6,7 +6,7 @@ const ReviewCard = ({ allReview }) => {
     const { name, college, photo, review, rating } = allReview
 
     return (
-        <div className="card w-96 bg-neutral-200 shadow-2xl p-10">
+        <div className="card w-96 bg-neutral-200 shadow-2xl p-10 mx-auto">
             <figure className="py-5">
                 <img src={photo} className='w-24 h-24 rounded-full ring ring-green-500
              ring-offset-base-100 ring-offset-2' />

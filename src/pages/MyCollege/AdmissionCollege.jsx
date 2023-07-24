@@ -22,7 +22,7 @@ const AdmissionCollege = ({ admissionCollege, index }) => {
         const reviewRating = { review, rating, name, college, photo }
         console.log(reviewRating);
 
-        fetch("http://localhost:5000/review", {
+        fetch("https://college-quest-hub-server-side.vercel.app/review", {
             method: "POST",
             headers: {
                 "content-type": "application/json"

@@ -12,10 +12,10 @@ const NavBar = () => {
     }
 
     const router = <>
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="colleges">Colleges</Link></li>
-        <li><Link to="admission">Admission</Link></li>
-        <li><Link to="mycollege">My College</Link></li>
+        <li><Link className='text-md font-serif' to="/">Home</Link></li>
+        <li><Link className='text-md font-serif' to="colleges">Colleges</Link></li>
+        <li><Link className='text-md font-serif' to="admission">Admission</Link></li>
+        <li><Link className='text-md font-serif' to="mycollege">My College</Link></li>
     </>
 
     return (

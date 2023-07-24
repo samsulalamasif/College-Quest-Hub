@@ -14,7 +14,7 @@ import { EffectCoverflow, Pagination } from 'swiper/modules';
 
 const Gallery = () => {
     return (
-        <div className='my-32'>
+        <div className='my-32' data-aos="fade-up-right" data-aos-duration="2000">
             <h1 className='text-5xl font-mono font-semibold text-center'>Our Gallery</h1>
             <p className='text-slate-600 font-bold py-8 text-center'>
                 Our college student graduated gallery consectetur adipisicing elit. Reiciendis veniam, eligendi <br />
